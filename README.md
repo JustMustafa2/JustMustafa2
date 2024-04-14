@@ -23,10 +23,9 @@
 </div>
 
 
-
-    <div class="container">
-        ![](https://github-readme-streak-stats.herokuapp.com/?user=JustMustafa2&theme=dark&hide_border=false)<br/>
-    </div>
+<div class="container">
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=JustMustafa2&theme=dark&hide_border=false)<br/>
+</div>
 
 
 
