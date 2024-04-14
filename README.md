@@ -1,4 +1,4 @@
-#  About Me:
+#  About Me
 <br>Hi there! 👋 <br> I'm Mustafa Abd El-Kader, a software enthusiast with a keen interest in software testing based in Egypt. I'm genuinely thrilled by the opportunity to ensure software products meet top-notch quality and reliability standards through thorough testing, and I'm eager to transition into a role in the field of software testing.<br><br>🌱 I'm currently honing my skills in manual and automated testing techniques, exploring tools like Selenium and Appium.<br>💼 I'm seeking opportunities to contribute my expertise to the software testing industry and make a meaningful impact on product quality.<br>💼 I'm interested in exploring innovative testing methodologies and staying up-to-date with the latest trends in software testing.<br><br>Feel free to explore my repositories and reach out if you have any questions or just want to connect!
 
 <p align="center">
