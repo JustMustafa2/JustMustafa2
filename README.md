@@ -24,7 +24,7 @@
 
 
 <div style="text-align: center;">
-   <img style="height: auto; width: 55%;" class="img" src="(https://github-readme-streak-stats.herokuapp.com/?user=JustMustafa2&theme=dark&hide_border=false" />
+   <img style="height: auto; " class="img" src="(https://github-readme-streak-stats.herokuapp.com/?user=JustMustafa2&theme=dark&hide_border=false" />
 </div>
 
 
