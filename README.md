@@ -24,7 +24,7 @@
 
 
 <div style="text-align: center;">
-   <img style="height: auto; " class="img" src="(https://github-readme-streak-stats.herokuapp.com/?user=JustMustafa2&theme=dark&hide_border=false" />
+   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=JustMustafa2&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 
