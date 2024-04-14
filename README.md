@@ -14,9 +14,15 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=JustMustafa2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?JustMustafa2&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustMustafa2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></div>
+</div>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JustMustafa2&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JustMustafa2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JustMustafa2&icon=0&color=0)](https://visitcount.itsvg.in)
