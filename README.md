@@ -23,11 +23,11 @@
 </div>
 
 
-<div style="display: flex; justify-content: center;">
+
     <div class="container">
         ![](https://github-readme-streak-stats.herokuapp.com/?user=JustMustafa2&theme=dark&hide_border=false)<br/>
     </div>
-</div>
+
 
 
 ---
